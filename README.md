@@ -1,2 +1,2 @@
 # uMagNUS-Pkgs-data
-Go package (data) for uMagNUS
+Golang package (data) for uMagNUS
